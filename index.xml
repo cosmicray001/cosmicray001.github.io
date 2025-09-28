@@ -1,73 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MD SAMIUL ISLAM</title><link>https://cosmicray001.github.io/</link><description>Recent content in Home on MD SAMIUL ISLAM</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://cosmicray001.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>👨‍💻 About Me</title><link>https://cosmicray001.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cosmicray001.github.io/about/</guid><description>&lt;hr>
-&lt;h2 class="heading" id="-what-i-do">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on MD SAMIUL ISLAM</title><link>https://cosmicray001.github.io/</link><description>Recent content in Home on MD SAMIUL ISLAM</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://cosmicray001.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>👨‍💻 About Me</title><link>https://cosmicray001.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cosmicray001.github.io/about/</guid><description>&lt;hr&gt;
+&lt;h2 class="heading" id="-what-i-do"&gt;
  🛠️ What I Do
- &lt;a class="anchor" href="#-what-i-do">#&lt;/a>
-&lt;/h2>
-&lt;h3 class="heading" id="ai--genai-solutions">
+ &lt;a class="anchor" href="#-what-i-do"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 class="heading" id="ai--genai-solutions"&gt;
  AI &amp;amp; GenAI Solutions
- &lt;a class="anchor" href="#ai--genai-solutions">#&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>Build agentic AI systems leveraging &lt;strong>LLMs&lt;/strong>, &lt;strong>RAG pipelines&lt;/strong>, and &lt;strong>knowledge graphs&lt;/strong> to enable autonomous decision-making, multi-step reasoning, and tool integration.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Develop GenAI-powered messaging platforms integrating &lt;strong>Twilio&lt;/strong>, &lt;strong>Perplexity AI&lt;/strong>, and advanced &lt;strong>prompt engineering&lt;/strong>.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;h3 class="heading" id="backend--distributed-systems">
+ &lt;a class="anchor" href="#ai--genai-solutions"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Build agentic AI systems leveraging &lt;strong&gt;LLMs&lt;/strong&gt;, &lt;strong&gt;RAG pipelines&lt;/strong&gt;, and &lt;strong&gt;knowledge graphs&lt;/strong&gt; to enable autonomous decision-making, multi-step reasoning, and tool integration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop GenAI-powered messaging platforms integrating &lt;strong&gt;Twilio&lt;/strong&gt;, &lt;strong&gt;Perplexity AI&lt;/strong&gt;, and advanced &lt;strong&gt;prompt engineering&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class="heading" id="backend--distributed-systems"&gt;
  Backend &amp;amp; Distributed Systems
- &lt;a class="anchor" href="#backend--distributed-systems">#&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>Design and develop scalable microservices and ETL pipelines using &lt;strong>Python&lt;/strong>, &lt;strong>Golang&lt;/strong>, &lt;strong>FastAPI&lt;/strong>, &lt;strong>Django&lt;/strong>, and &lt;strong>Celery&lt;/strong>.&lt;/li>
-&lt;li>Architect robust systems leveraging &lt;strong>PostgreSQL&lt;/strong>, &lt;strong>MongoDB&lt;/strong>, &lt;strong>Redis&lt;/strong>, &lt;strong>RabbitMQ&lt;/strong>, and &lt;strong>Elasticsearch&lt;/strong>.&lt;/li>
-&lt;li>Build and maintain high-throughput, low-latency applications optimized with &lt;strong>concurrency&lt;/strong>, &lt;strong>sharding&lt;/strong>, and &lt;strong>partitioning&lt;/strong>.&lt;/li>
-&lt;/ul>
-&lt;h3 class="heading" id="devops--cloud-infrastructure">
+ &lt;a class="anchor" href="#backend--distributed-systems"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and develop scalable microservices and ETL pipelines using &lt;strong&gt;Python&lt;/strong&gt;, &lt;strong&gt;Golang&lt;/strong&gt;, &lt;strong&gt;FastAPI&lt;/strong&gt;, &lt;strong&gt;Django&lt;/strong&gt;, and &lt;strong&gt;Celery&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Architect robust systems leveraging &lt;strong&gt;PostgreSQL&lt;/strong&gt;, &lt;strong&gt;MongoDB&lt;/strong&gt;, &lt;strong&gt;Redis&lt;/strong&gt;, &lt;strong&gt;RabbitMQ&lt;/strong&gt;, and &lt;strong&gt;Elasticsearch&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Build and maintain high-throughput, low-latency applications optimized with &lt;strong&gt;concurrency&lt;/strong&gt;, &lt;strong&gt;sharding&lt;/strong&gt;, and &lt;strong&gt;partitioning&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class="heading" id="devops--cloud-infrastructure"&gt;
  DevOps &amp;amp; Cloud Infrastructure
- &lt;a class="anchor" href="#devops--cloud-infrastructure">#&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>Deploy containerized applications with &lt;strong>Docker&lt;/strong>, &lt;strong>Serverless&lt;/strong>, and &lt;strong>CI/CD&lt;/strong> pipelines.&lt;/li>
-&lt;li>Monitor and optimize production systems using &lt;strong>Grafana&lt;/strong>, &lt;strong>AWS&lt;/strong>, and &lt;strong>Azure&lt;/strong>.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 class="heading" id="-achievements">
+ &lt;a class="anchor" href="#devops--cloud-infrastructure"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Deploy containerized applications with &lt;strong&gt;Docker&lt;/strong&gt;, &lt;strong&gt;Serverless&lt;/strong&gt;, and &lt;strong&gt;CI/CD&lt;/strong&gt; pipelines.&lt;/li&gt;
+&lt;li&gt;Monitor and optimize production systems using &lt;strong&gt;Grafana&lt;/strong&gt;, &lt;strong&gt;AWS&lt;/strong&gt;, and &lt;strong&gt;Azure&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 class="heading" id="-achievements"&gt;
  🏆 Achievements
- &lt;a class="anchor" href="#-achievements">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>🥇 &lt;strong>Champion&lt;/strong> – BRACU Intra University Programming Contest (2017, 2018)&lt;/li>
-&lt;li>🏅 &lt;strong>5th Nationwide&lt;/strong> – IEEE Xtreme 13.0 (2019)&lt;/li>
-&lt;li>🏅 &lt;strong>8th Place&lt;/strong> – UITS Inter-University Programming Contest (2019)&lt;/li>
-&lt;li>📜 &lt;strong>Twice on Vice Chancellor&amp;rsquo;s List&lt;/strong> with a perfect &lt;strong>4.00 CGPA&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 class="heading" id="-mentorship">
+ &lt;a class="anchor" href="#-achievements"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🥇 &lt;strong&gt;Champion&lt;/strong&gt; – BRACU Intra University Programming Contest (2017, 2018)&lt;/li&gt;
+&lt;li&gt;🏅 &lt;strong&gt;5th Nationwide&lt;/strong&gt; – IEEE Xtreme 13.0 (2019)&lt;/li&gt;
+&lt;li&gt;🏅 &lt;strong&gt;8th Place&lt;/strong&gt; – UITS Inter-University Programming Contest (2019)&lt;/li&gt;
+&lt;li&gt;📜 &lt;strong&gt;Twice on Vice Chancellor&amp;rsquo;s List&lt;/strong&gt; with a perfect &lt;strong&gt;4.00 CGPA&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 class="heading" id="-mentorship"&gt;
  📚 Mentorship
- &lt;a class="anchor" href="#-mentorship">#&lt;/a>
-&lt;/h2>
-&lt;p>I&amp;rsquo;ve served as an &lt;strong>IT Instructor at PONDIT&lt;/strong>, training aspiring developers in &lt;strong>Python&lt;/strong> and &lt;strong>Django&lt;/strong> with an industry-ready curriculum from 2022 to 2023.&lt;/p></description></item><item><title>Blog Posts</title><link>https://cosmicray001.github.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cosmicray001.github.io/posts/</guid><description>&lt;h3 class="heading" id="2025">
+ &lt;a class="anchor" href="#-mentorship"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve served as an &lt;strong&gt;IT Instructor at PONDIT&lt;/strong&gt;, training aspiring developers in &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;Django&lt;/strong&gt; with an industry-ready curriculum from 2022 to 2023.&lt;/p&gt;</description></item><item><title>Blog Posts</title><link>https://cosmicray001.github.io/posts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cosmicray001.github.io/posts/</guid><description>&lt;h3 class="heading" id="2025"&gt;
  2025
- &lt;a class="anchor" href="#2025">#&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>&lt;a href="https://medium.com/@cosmicray001/going-production-ready-with-sqlite-how-litestream-makes-it-possible-74f894fc96f0">Going Production-Ready with SQLite: How Litestream Makes It Possible&lt;/a>&lt;/strong>&lt;br>
-&lt;em>Empower your lightweight database with continuous replication and effortless backups — no heavy lifting required.&lt;/em>&lt;br>
-&lt;em>Published on Mar 6, 2025&lt;/em>&lt;/li>
-&lt;/ul>
-&lt;h3 class="heading" id="2023">
+ &lt;a class="anchor" href="#2025"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://medium.com/@cosmicray001/going-production-ready-with-sqlite-how-litestream-makes-it-possible-74f894fc96f0"&gt;Going Production-Ready with SQLite: How Litestream Makes It Possible&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Empower your lightweight database with continuous replication and effortless backups — no heavy lifting required.&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Published on Mar 6, 2025&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class="heading" id="2023"&gt;
  2023
- &lt;a class="anchor" href="#2023">#&lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>&lt;a href="https://medium.com/@cosmicray001/navigating-the-junior-golang-developer-path-a-beginners-guide-0e52f9b3a63c">Navigating the Junior Golang Developer Path: A Beginner’s Guide&lt;/a>&lt;/strong>&lt;br>
-&lt;em>Embark on Your Coding Odyssey: A Beginner’s Guide to Becoming a Junior Golang Developer!&lt;/em>&lt;br>
-&lt;em>Published on Dec 31, 2023&lt;/em>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>&lt;a href="https://medium.com/@cosmicray001/the-ingenious-world-of-empty-structs-in-go-zeroing-in-on-zero-memory-a7050279fe18">The Ingenious World of Empty Structs in Go: Zeroing in on Zero Memory&lt;/a>&lt;/strong>&lt;br>
-&lt;em>In the dynamic realm of Go programming, there exists a seemingly paradoxical entity — the empty struct.&lt;/em>&lt;br>
-&lt;em>Published on Dec 31, 2023&lt;/em>&lt;/p></description></item></channel></rss>
+ &lt;a class="anchor" href="#2023"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://medium.com/@cosmicray001/navigating-the-junior-golang-developer-path-a-beginners-guide-0e52f9b3a63c"&gt;Navigating the Junior Golang Developer Path: A Beginner’s Guide&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Embark on Your Coding Odyssey: A Beginner’s Guide to Becoming a Junior Golang Developer!&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Published on Dec 31, 2023&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://medium.com/@cosmicray001/the-ingenious-world-of-empty-structs-in-go-zeroing-in-on-zero-memory-a7050279fe18"&gt;The Ingenious World of Empty Structs in Go: Zeroing in on Zero Memory&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;In the dynamic realm of Go programming, there exists a seemingly paradoxical entity — the empty struct.&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Published on Dec 31, 2023&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
